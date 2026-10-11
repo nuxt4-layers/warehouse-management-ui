@@ -1,1 +1,1 @@
-# warehouse-management-ui
+# @nuxt4-layers/warehouse-management-ui
